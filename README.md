@@ -22,7 +22,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
   - Learn OS fundamentals: processes, memory, interrupts, and more
 
 
-  🛠️ 3. Technologies Used
+🛠️ 3. Technologies Used
 
 - 
   ## 🛠️ Built With
@@ -37,7 +37,8 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 | VMware Workstation / Player | Virtual machine to run Dj.OS             |
 
 
-🧾 4. How to Build & Run
+
+##🧾 4. How to Build & Run
 
 
 ## 🧾 Getting Started
@@ -57,7 +58,7 @@ cd djos
 
 
 
----
+```
 
 ### 🔧 **5. Commands List**
 
@@ -78,12 +79,12 @@ cd djos
 | `ls`                 | List all created files                      |
 | `calc <n1> <op> <n2>`| Perform arithmetic operation (+ - * /)      |
 | `osgame`             | Start the interactive OS Learning Game      |
+```
+
+##🎓 6. OSGame: Learning Mode Commands
 
 
-🎓 6. OSGame: Learning Mode Commands
-
-
-## 🎮 OSGame Commands
+# 🎮 OSGame Commands
 
 | Command                     | Description                                      |
 |-----------------------------|--------------------------------------------------|
@@ -97,10 +98,10 @@ cd djos
 | `exit`                      | Exit the learning game                          |
 
 
-👨‍💻 8. Author and Credits
+##👨‍💻 8. Author and Credits
 
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Partha Sarathi**
 
