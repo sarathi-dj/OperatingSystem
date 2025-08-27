@@ -1,5 +1,5 @@
 ### 📌 1. Project Title and Description
-# Dj.OS
+ **Dj.OS**
 A simple custom command-line operating system built using [Cosmos OS](https://github.com/CosmosOS/Cosmos), created by Partha Sarathi.
 
 Dj.OS supports basic shell commands, a simulated file system, a simple calculator, and an interactive learning game to understand core OS concepts like memory management, processes, and interrupts.
@@ -8,7 +8,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 ### 🚀 2. Features
 
 
-# ✨ Features
+ **✨ Features**
 
 - 🖥️ Basic Shell Interface with built-in commands:
   - `help`, `clear`, `shutdown`, `about`, `echo`
@@ -23,9 +23,9 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 ### 🛠️ 3. Technologies Used
 
 - 
-  # 🛠️ Built With
+  **🛠️ Built With**
 
-# 🧰 Dependencies
+**🧰 Dependencies**
 
 | Tool                        | Purpose                                  |
 |-----------------------------|------------------------------------------|
@@ -39,7 +39,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 ### 🧾 4. How to Build & Run
 
 
- 🧾 Getting Started
+ **🧾 Getting Started**
 
 > 🚨 **Requirements:**
 >
