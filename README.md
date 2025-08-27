@@ -99,7 +99,7 @@ cd djos
 ### 👨‍💻 8. Author and Credits
 
 
-# 👨‍💻 Author
+ 👨‍💻 Author
 
 **Partha Sarathi**
 
