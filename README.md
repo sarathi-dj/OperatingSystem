@@ -5,7 +5,7 @@ A simple custom command-line operating system built using [Cosmos OS](https://gi
 Dj.OS supports basic shell commands, a simulated file system, a simple calculator, and an interactive learning game to understand core OS concepts like memory management, processes, and interrupts.
 
 
-🚀 2. Features
+### 🚀 2. Features
 
 
 ## ✨ Features
@@ -20,7 +20,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
   - Learn OS fundamentals: processes, memory, interrupts, and more
 
 
-🛠️ 3. Technologies Used
+### 🛠️ 3. Technologies Used
 
 - 
   ## 🛠️ Built With
@@ -36,7 +36,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 
 
 
-##🧾 4. How to Build & Run
+### 🧾 4. How to Build & Run
 
 
 ## 🧾 Getting Started
@@ -48,7 +48,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 > - [Cosmos OS User Kit](https://github.com/CosmosOS/Cosmos)
 > - **VMware Workstation / Player** – Required to boot and run the OS in a virtual machine
 
-### 1️⃣ Clone the Repository
+# 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/djos.git
@@ -79,7 +79,7 @@ cd djos
 | `osgame`             | Start the interactive OS Learning Game      |
 ```
 
-##🎓 6. OSGame: Learning Mode Commands
+### 🎓 6. OSGame: Learning Mode Commands
 
 
 # 🎮 OSGame Commands
@@ -96,7 +96,7 @@ cd djos
 | `exit`                      | Exit the learning game                          |
 
 
-##👨‍💻 8. Author and Credits
+### 👨‍💻 8. Author and Credits
 
 
 # 👨‍💻 Author
