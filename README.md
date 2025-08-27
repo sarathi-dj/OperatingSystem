@@ -8,7 +8,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 ### 🚀 2. Features
 
 
-## ✨ Features
+# ✨ Features
 
 - 🖥️ Basic Shell Interface with built-in commands:
   - `help`, `clear`, `shutdown`, `about`, `echo`
@@ -23,9 +23,9 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 ### 🛠️ 3. Technologies Used
 
 - 
-  ## 🛠️ Built With
+  # 🛠️ Built With
 
-## 🧰 Dependencies
+# 🧰 Dependencies
 
 | Tool                        | Purpose                                  |
 |-----------------------------|------------------------------------------|
@@ -39,7 +39,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 ### 🧾 4. How to Build & Run
 
 
-## 🧾 Getting Started
+ 🧾 Getting Started
 
 > 🚨 **Requirements:**
 >
@@ -48,7 +48,7 @@ Dj.OS supports basic shell commands, a simulated file system, a simple calculato
 > - [Cosmos OS User Kit](https://github.com/CosmosOS/Cosmos)
 > - **VMware Workstation / Player** – Required to boot and run the OS in a virtual machine
 
-# 1️⃣ Clone the Repository
+# Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/djos.git
@@ -61,7 +61,7 @@ cd djos
 ### 🔧 **5. Commands List**
 
 ```markdown
-## 💻 Dj.OS Command List
+ 💻 Dj.OS Command List
 
 | Command              | Description                                 |
 |----------------------|---------------------------------------------|
@@ -82,26 +82,24 @@ cd djos
 ### 🎓 6. OSGame: Learning Mode Commands
 
 
-# 🎮 OSGame Commands
+ 🎮 OSGame Commands
 
-| Command                     | Description                                      |
-|-----------------------------|--------------------------------------------------|
-| `create process <name>`     | Start a new simulated process                   |
-| `kill process <name>`       | Kill a process and free its memory              |
-| `use memory <MB>`           | Allocate memory to the latest process           |
-| `free memory <MB>`          | Free memory from the latest process             |
-| `interrupt`                 | Simulate a CPU interrupt                        |
-| `status`                    | Show current system memory and process state    |
+| Command                     | Description                                                      |
+|-----------------------------|------------------------------------------------------------------|
+| `create process <name>`     | Start a new simulated process                                    |
+| `kill process <name>`       | Kill a process and free its memory                               |
+| `use memory <MB>`           | Allocate memory to the latest process                            |
+| `free memory <MB>`          | Free memory from the latest process                              |
+| `interrupt`                 | Simulate a CPU interrupt                                         |
+| `status`                    | Show current system memory and process state                     |
 | `explain <topic>`           | Learn OS concepts: `process`, `memory`, `scheduler`, `interrupt` |
-| `exit`                      | Exit the learning game                          |
+| `exit`                      | Exit the learning game                                           |
 
 
 ### 👨‍💻 8. Author and Credits
 
 
- 👨‍💻 Author
-
-**Partha Sarathi**
+ 👨‍💻 Author - **Partha Sarathi**
 
 - [GitHub](https://github.com/sarathi-dj)
 - Built using the [Cosmos Project](https://github.com/CosmosOS/Cosmos)
