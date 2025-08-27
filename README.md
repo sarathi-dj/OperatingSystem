@@ -1,4 +1,4 @@
-##📌 1. Project Title and Description
+**##📌 1. Project Title and Description**
 # Dj.OS
 A simple custom command-line operating system built using [Cosmos OS](https://github.com/CosmosOS/Cosmos), created by Partha Sarathi.
 
